@@ -185,12 +185,12 @@ Fale comigo:
 <div align="center">
 
 <!-- ✏️ EDITE: troque "nome-do-repositorio" pelo repo real em cada card -->
-<a href="https://github.com/FernandoH498/minecraft2.git">
+<a href="https://minecraft6713.vercel.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoH498&repo=nome-do-repositorio-1&theme=tokyonight&hide_border=true"
        alt="Projeto 1" />
 </a>
-<a href="https://github.com/FernandoH498/nome-do-repositorio-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoH498&repo=nome-do-repositorio-2&theme=tokyonight&hide_border=true"
+<a href="https://projetocs3.vercel.app/">
+  <img src="https://fv5-5.files.fm/thumb_show.php?i=byjy79xxg5&view&v=1&PHPSESSID=37250c3f410f3a584ba0a803777f33a5f22d366a"
        alt="Projeto 2" />
 </a>
 

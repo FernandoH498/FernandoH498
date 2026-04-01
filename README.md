@@ -211,22 +211,22 @@ Fale comigo:
 
 <!-- GIF FOOTER → substitua o src abaixo pelo seu GIF de encerramento
      Sugestões: wave, thank you, rocket launch, etc.           -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"
+<img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDd6OG1tdWZiZXJub2I5NTU5MmgxdmhwdmdnOGo4bGszZ3p0NjZwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ouDsEX8pf90JZSHNik/200.webp"
      alt="gif de encerramento"
      width="60" />
 
 <br/>
 
 <!-- ✏️ EDITE: troque a mensagem de encerramento se quiser -->
-<em><b>Obrigado pela visita!</b> Me manda uma mensagem — adoro conectar com pessoas da área 😄</em>
+<em><b>Obrigado pela visita!</b> Me manda uma mensagem — adoro conectar com pessoas da área</em>
 
 <br/><br/>
 
 <!-- Linha final com redes sociais — ✏️ EDITE os links -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fernando-ian-harmel-0b7154400)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/FernandoH498)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](fernandoianharmel@gmail.com)
 
 <br/>
 

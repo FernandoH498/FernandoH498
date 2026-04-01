@@ -33,7 +33,7 @@
 
 <!-- ✏️ EDITE: troque "Fernando H." pelo seu nome completo -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Fernando+H.+;Desenvolvedor+em+formação"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Fernando+Ian+Harmel+;Desenvolvedor+em+formação"
        alt="Digitando nome e título" />
 </h1>
 
@@ -60,18 +60,18 @@
 ### 👨‍💻 Sobre mim
 
 <!-- ✏️ EDITE: personalize cada linha com suas informações reais -->
-- 🌱 Atualmente aprendendo **JavaScript, Python, Java e C#**
-- 🎯 Objetivo: construir projetos que resolvam problemas reais
-- 💡 Fascinado por lógica, automação e boas práticas de código
-- 🤝 Aberto a colaborações e projetos open source
-- ⚡ Curiosidade: <!-- ✏️ EDITE: adicione um fato divertido sobre você -->
+- Atualmente aprendendo **JavaScript, Python, Java e C#**
+- Objetivo: construir projetos que resolvam problemas reais
+- Fascinado por lógica, automação e boas práticas de código
+- Aberto a colaborações e projetos open source
+- Curiosidade: Treino Badminto!<!-- ✏️ EDITE: adicione um fato divertido sobre você -->
 
 <br/>
 
 <!-- ✏️ EDITE: substitua o e-mail e os links das redes sociais -->
 ** Fale comigo:**
 
-[![Email](https://img.shields.io/badge/Email-seu--email%40exemplo.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fernandoianharmel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-fernandoianharmel%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fernandoianharmel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ian-harmel-0b7154400)
 [![Twitter](https://img.shields.io/badge/Twitter-@seu--usuario-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
 
@@ -81,7 +81,7 @@
 <!-- GIF CODING → substitua o src abaixo pelo GIF que preferir
      Tamanho recomendado: 300–400px de largura
      Sugestões: https://giphy.com/search/coding  -->
-<img src="[https://giffiles.alphacoders.com/224/224299.gif](https://giffiles.alphacoders.com/224/224299.gif)"
+<img src="(https://giffiles.alphacoders.com/224/224299.gif)"
      alt="gif de programação"
      width="340"
      style="border-radius:12px;" />

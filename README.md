@@ -81,7 +81,7 @@ Fale comigo:
 <!-- GIF CODING → substitua o src abaixo pelo GIF que preferir
      Tamanho recomendado: 300–400px de largura
      Sugestões: https://giphy.com/search/coding  -->
-<img src="https://media.tenor.com/vGD3VmSZ-kgAAAAM/musashi-vagabond.gif"
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhhdTFnbmJjeGFuNnp4dzlybWlsYzNreDZmM2ZvdHg3a2xrZXFqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYQSXVlQXF7hgWvfri/giphy.gif"
      alt="gif de programação"
      width="340"
      style="border-radius:12px;" />

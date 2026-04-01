@@ -189,7 +189,7 @@ Fale comigo:
   <a href="https://minecraft6713.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoH498&repo=nome-do-repositorio-1&theme=tokyonight&hide_border=true"
          alt="Projeto 1"
-         style="width:100%;"/>
+         style="width:50%;"/>
   </a>
 </div>
 <a href="https://projetocs3.vercel.app/">

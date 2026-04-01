@@ -136,29 +136,24 @@ Fale comigo:
      Nenhuma configuração necessária — funcionam com APIs públicas
      ═══════════════════════════════════════════════════════════ -->
 
-### 📊 Estatísticas do GitHub
-
+📊 Estatísticas do GitHub
 <div align="center">
-
+<!--
+  Cards de estatísticas — gerados automaticamente pelo github-readme-stats
+  theme=tokyonight funciona bem em modo claro e escuro
+  Para ver outros temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+-->
 <a href="https://github.com/FernandoH498">
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api?username=FernandoH498&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
        alt="Estatísticas gerais do GitHub" />
 </a>
-
 <a href="https://github.com/FernandoH498">
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoH498&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
        alt="Linguagens mais usadas" />
 </a>
-
-</div>
-
-<!-- Card de streak (sequência de commits diários) -->
-<img src="https://streak-stats.demolab.com?user=FernandoH498&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
-     alt="Streak de contribuições" />
-
-</div>
+<br/>
 
 ---
 

@@ -69,7 +69,7 @@
 <br/>
 
 <!-- ✏️ EDITE: substitua o e-mail e os links das redes sociais -->
-** Fale comigo:**
+Fale comigo:
 
 [![Email](https://img.shields.io/badge/Email-fernandoianharmel%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fernandoianharmel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ian-harmel-0b7154400)
@@ -81,7 +81,7 @@
 <!-- GIF CODING → substitua o src abaixo pelo GIF que preferir
      Tamanho recomendado: 300–400px de largura
      Sugestões: https://giphy.com/search/coding  -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img src="https://giffiles.alphacoders.com/224/224299.gif"
      alt="gif de programação"
      width="340"
      style="border-radius:12px;" />

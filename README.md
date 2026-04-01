@@ -185,7 +185,7 @@ Fale comigo:
 <div align="center">
 
 <!-- ✏️ EDITE: troque "nome-do-repositorio" pelo repo real em cada card -->
-<a href="https://github.com/FernandoH498/nome-do-repositorio-1">
+<a href="https://github.com/FernandoH498/minecraft2.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FernandoH498&repo=nome-do-repositorio-1&theme=tokyonight&hide_border=true"
        alt="Projeto 1" />
 </a>

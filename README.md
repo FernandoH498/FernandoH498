@@ -186,15 +186,15 @@ Fale comigo:
 
 <!-- ✏️ EDITE: troque "nome-do-repositorio" pelo repo real em cada card -->
 <div style="width:250px;">
-  <a href="https://minecraft6713.vercel.app/">
+  <a href="https://projetocs3.vercel.app/">
     <img src="https://i.imgur.com/jXmp83t.png"
          alt="Projeto 1"
          style="width:50%;"/>
   </a>
 </div>
 
-<a href="https://projetocs3.vercel.app/">
-  <img src="https://fv5-5.files.fm/thumb_show.php?i=byjy79xxg5&view&v=1&PHPSESSID=37250c3f410f3a584ba0a803777f33a5f22d366a"
+<a href="https://faahmusics.vercel.app/">
+  <img src="https://i.imgur.com/uavo9c3.png"
        alt="Projeto 2" />
 </a>
 

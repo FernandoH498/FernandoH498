@@ -154,8 +154,11 @@ Fale comigo:
        alt="Linguagens mais usadas" />
 </a>
 <br/>
+<!-- Card de streak (sequência de commits diários) -->
+<img src="https://streak-stats.demolab.com?user=FernandoH498&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
+  alt="Streak de contribuições" />
 
----
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════
      SEÇÃO 5 — GRÁFICO DE ATIVIDADE

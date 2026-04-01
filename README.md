@@ -211,7 +211,7 @@ Fale comigo:
 
 <!-- GIF FOOTER → substitua o src abaixo pelo seu GIF de encerramento
      Sugestões: wave, thank you, rocket launch, etc.           -->
-<img src="https://i.giphy.com/ouDsEX8pf90JZSHNik.webp"
+<img src="https://i.giphy.com/qrtxxe638kXlhKBDxg.webp"
      alt="gif de encerramento"
      width="300" />
 

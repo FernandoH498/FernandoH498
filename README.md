@@ -73,7 +73,7 @@ Fale comigo:
 
 [![Email](https://img.shields.io/badge/Email-fernandoianharmel%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fernandoianharmel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ian-harmel-0b7154400)
-[![Twitter](https://img.shields.io/badge/Twitter-@seu--usuario-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
+[![Twitter](https://img.shields.io/badge/Twitter--1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
 
 </td>
 <td width="45%" align="center" valign="top">

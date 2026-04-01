@@ -33,13 +33,13 @@
 
 <!-- ✏️ EDITE: troque "Fernando H." pelo seu nome completo -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Fernando+H.+👋;Desenvolvedor+em+formação+🚀;Apaixonado+por+código+e+tecnologia+💻"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Fernando+H.+;Desenvolvedor+em+formação"
        alt="Digitando nome e título" />
 </h1>
 
 <!-- ✏️ EDITE: status atual entre aspas abaixo -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Aprendendo%20desenvolvimento%20web-58A6FF?style=for-the-badge&logo=statuspage&logoColor=white" alt="status atual" />
+  <img src="https://img.shields.io/badge/Status-Aprendendo%20desenvolvimento%20web-58A6FF?style=for-the-badge&logo=statuspage&logoColor=white" alt="Estudante" />
 </p>
 
 <!-- Contador de visitas — funciona automaticamente com seu usuário -->
@@ -69,10 +69,10 @@
 <br/>
 
 <!-- ✏️ EDITE: substitua o e-mail e os links das redes sociais -->
-**📬 Fale comigo:**
+** Fale comigo:**
 
-[![Email](https://img.shields.io/badge/Email-seu--email%40exemplo.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-seu--email%40exemplo.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fernandoianharmel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ian-harmel-0b7154400)
 [![Twitter](https://img.shields.io/badge/Twitter-@seu--usuario-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
 
 </td>
@@ -81,7 +81,7 @@
 <!-- GIF CODING → substitua o src abaixo pelo GIF que preferir
      Tamanho recomendado: 300–400px de largura
      Sugestões: https://giphy.com/search/coding  -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img src="[https://giffiles.alphacoders.com/224/224299.gif](https://giffiles.alphacoders.com/224/224299.gif)"
      alt="gif de programação"
      width="340"
      style="border-radius:12px;" />

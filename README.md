@@ -213,7 +213,7 @@ Fale comigo:
      Sugestões: wave, thank you, rocket launch, etc.           -->
 <img src="https://i.giphy.com/ouDsEX8pf90JZSHNik.webp"
      alt="gif de encerramento"
-     width="100" />
+     width="700" />
 
 <br/>
 

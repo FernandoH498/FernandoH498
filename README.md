@@ -81,7 +81,7 @@
 <!-- GIF CODING → substitua o src abaixo pelo GIF que preferir
      Tamanho recomendado: 300–400px de largura
      Sugestões: https://giphy.com/search/coding  -->
-<img src="(https://giffiles.alphacoders.com/224/224299.gif)"
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
      alt="gif de programação"
      width="340"
      style="border-radius:12px;" />
@@ -97,7 +97,7 @@
      Adicione ou remova badges em: https://shields.io
      ═══════════════════════════════════════════════════════════ -->
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <!-- ✏️ EDITE: adicione ou remova as linguagens/ferramentas que você usa -->
 
